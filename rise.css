@@ -1,0 +1,27 @@
+.sds-footer {
+    font-family: monospace;
+    font-size: xx-large;
+    font-variant-caps:titling-caps;
+    left: 20%;
+    bottom: 10px;
+    position: relative;
+}
+
+.sds-header {
+    top: 0px;
+    width: 1980px;
+    height: 110px;
+    background-size: 100%;
+    background-color: #2A65AF;
+    position: absolute
+}
+
+.sds-header-image {
+    top: 0px;
+    width: 1280px;
+    height: 150px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-image: url(images/sdsheader.jpg);
+    position: absolute
+}
