@@ -1,0 +1,5 @@
+# in _config.yml
+title: "Techologies for Advanced Programming"
+logo: images/sdsheader.jpg
+execute:
+  execute_notebooks: force

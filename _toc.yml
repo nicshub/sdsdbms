@@ -1,0 +1,7 @@
+format: jb-book
+root: 'Root'
+chapters:
+- file: Intro
+- file: Data
+- file: DBMS
+- file: Desktop DBMS
