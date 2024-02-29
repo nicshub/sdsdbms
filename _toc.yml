@@ -1,7 +1,7 @@
 format: jb-book
-root: 'Root'
+root: Cover
 chapters:
 - file: Intro
 - file: Data
-- file: DBMS
+- file: Information Systems and DBMS
 - file: Desktop DBMS

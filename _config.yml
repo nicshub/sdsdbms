@@ -1,5 +1,5 @@
 # in _config.yml
-title: "Techologies for Advanced Programming"
+title: "Notion of Data Base Management Systems"
 logo: images/sdsheader.jpg
 execute:
   execute_notebooks: force
